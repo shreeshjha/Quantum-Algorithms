@@ -1,2 +1,2 @@
 # Quantum-Algorithms
-Implementation of Various Quantum Algorithms in Python Qiskits.
+Implementation of Various Quantum Algorithms in Qiskits.
